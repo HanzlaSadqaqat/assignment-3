@@ -1,0 +1,7 @@
+###
+POST http://localhost:2000/courses
+Content-Type: "application/json"
+
+{
+    "subject": "Subject 4"
+}
